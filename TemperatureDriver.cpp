@@ -1,6 +1,5 @@
 #include "mbed.h"
 #include "TemperatureDriver.h"
-#pragma once
 
 
 /** 
